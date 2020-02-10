@@ -7,11 +7,11 @@
 .headLog{ float: center;background: url(../img/Back.png); height: 150px; }
 
 
-.headLogBox{ width: 1700px; margin: 0 auto; position: relative;}
+.headLogBox{ width: 100%; margin: 0 auto; position: relative;}
 .headLogBox .l{ padding-top: 10px;}
 .headLogBox .r{padding-top: 10px;}
 .headLogBox .nav{ position: absolute; bottom:-67px;  height: 50px; background: #1a2c80; width: 100%; }
-.headLogBox .nav ul li{ float: left; line-height: 60px; width: 200px; text-align: center; line-height: 50px;}
+.headLogBox .nav ul li{ float: left; line-height: 60px; width: 12.5%; text-align: center; line-height: 50px;}
 .headLogBox .nav ul li a{ font-size: 18px; color: #fff;}
 .headLogBox .nav ul li.on a{ color:#fff;}
 .imgBG{ background: url(../img/background.jpg) no-repeat center;  height: 288px; }
