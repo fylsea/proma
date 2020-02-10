@@ -1,0 +1,108 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+@charset "utf-8";
+/* Common Setting (ver.1.0)
+--------------------------------------------------*/
+/* CSS Reset */
+*     {margin:0px;padding:0px;}
+th,td {margin:0px;padding:0px;} /* win ie5.5 */
+h1,h2,h3,h4,h5,h6,strong {font-weight:bold;}
+p,form {font-weight:normal;}
+img {border:0px;}
+ul     {list-style:none;}
+ul img {vertical-align:bottom;}
+
+/* Body */
+body{
+	color:#333333;
+	font-size:100%;
+	font-family:"微软雅黑";
+}
+
+/* font family */
+body,form textarea{ font-size:13px; color:#484848;}
+.l{float: left;}
+.r{float: right;}
+
+
+/* Link */
+a{text-decoration: none; color:#666666;}
+
+/* Universal Class
+--------------------------------------------------*/
+/* Font Size */
+.ftSmallx  {font-size:70%  !important; line-height:1.5em !important;}
+.ftSmall   {font-size:80%  !important; line-height:1.5em !important;}
+.ftMedium  {font-size:100% !important; line-height:1.6em !important;}
+.ftLarge   {font-size:120% !important; line-height:1.6em !important;}
+.ftLargex  {font-size:150% !important; line-height:1.6em !important;}
+.ftLargexx {font-size:200% !important; line-height:1.6em !important;}
+
+/* Image Float */
+.imageLeft  {float:left;  margin:0px 20px 5px 0px;}
+.imageRight {float:right; margin:0px 0px 5px 10px;}
+
+/* Float Clear */
+br.clearFloat,
+img.clearFloat {clear:both;height:1px;}
+div.clearFloat {clear:both;font-size:1px;line-height:0px;height:0px;width:0px;}
+
+/* Align */
+.txtAlignL {text-align:left   !important;}
+.txtAlignC {text-align:center !important;}
+.txtAlignR {text-align:right  !important;}
+
+/* Display None */
+.noDisp {display:none;}
+
+/* Margin Set */
+	/* Reset */
+	.margReset {margin:0px !important;}
+	/* 0px */
+	.margT00 {margin-top   :0px !important;}
+	.margR00 {margin-right :0px !important;}
+	.margB00 {margin-bottom:0px !important;}
+	.margL00 {margin-left  :0px !important;}
+	/* 5px */
+	.margT05 {margin-top   :5px !important;}
+	.margR05 {margin-right :5px !important;}
+	.margB05 {margin-bottom:5px !important;}
+	.margL05 {margin-left  :5px !important;}
+	/* 10px */
+	.margT10 {margin-top   :10px !important;}
+	.margR10 {margin-right :10px !important;}
+	.margB10 {margin-bottom:10px !important;}
+	.margL10 {margin-left  :10px !important;}
+	/* 15px */
+	.margT15 {margin-top   :15px !important;}
+	.margR15 {margin-right :15px !important;}
+	.margB15 {margin-bottom:15px !important;}
+	.margL15 {margin-left  :15px !important;}
+	/* 20px */
+	.margT20 {margin-top   :20px !important;}
+	.margR20 {margin-right :20px !important;}
+	.margB20 {margin-bottom:20px !important;}
+	.margL20 {margin-left  :20px !important;}
+	/* 25px */
+	.margT25 {margin-top   :25px !important;}
+	.margR25 {margin-right :25px !important;}
+	.margB25 {margin-bottom:25px !important;}
+	.margL25 {margin-left  :25px !important;}
+	/* 30px */
+	.margT30 {margin-top   :30px !important;}
+	.margR30 {margin-right :30px !important;}
+	.margB30 {margin-bottom:30px !important;}
+	.margL30 {margin-left  :30px !important;}
+	/* 35px */
+	.margB35 {margin-bottom:35px !important;}
+
+
+
+
+
+
+
+
+
+
